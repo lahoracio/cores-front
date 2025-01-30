@@ -21,4 +21,5 @@ body{
 #trocar-cor {
     padding: 8px 12px;
     font-size: 24px;
+    cursor: pointer;
 }
